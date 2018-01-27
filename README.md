@@ -10,5 +10,3 @@ Here is a screenshot of the application running:
 
 ![alt text](https://puu.sh/zaebV/d94d5fbdd4.png)
 
-
-* ...
