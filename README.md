@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple blog app created using Rails
 
-Things you may want to cover:
+You can run this server using the ```command bin/rails``` server from the base repo. You can then simply navigate to localhost:3000 to see the main page of the app.
 
-* Ruby version
+If this is your first time running this application, you will have to run a db migration using ```bin/rails db:migrate```
 
-* System dependencies
+Here is a screenshot of the application running:
 
-* Configuration
+![alt text](https://puu.sh/zaebV/d94d5fbdd4.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
